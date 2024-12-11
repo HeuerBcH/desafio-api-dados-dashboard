@@ -38,3 +38,8 @@ O desafio consiste  em consumir a API do YouTube dos vídeos de highlights das c
 ## 🎥 Capturas de Tela:
 
 
+## Links:
+
+<p>Segue abaixo o link para o documento de passo a passo para a realização correta do desafio antes de começar a por em prática</p>
+<a href="https://1drv.ms/w/c/fcdd49a0c68b61a0/EUHxwrQTSCdCqEd0Z-sPf9sBcyYD7YdfMgeiisn6Wlbv-Q?e=oarWbm">Clique aqui</a>
+

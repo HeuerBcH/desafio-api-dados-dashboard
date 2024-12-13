@@ -32,14 +32,15 @@ O desafio consiste  em consumir a API do YouTube dos vídeos de highlights das c
   <li>Entender o funcionamenteo da biblioteca plotly para criação dos gráficos (Inicialmente minha ideia era fazer o uso da matplotlib para tal função, visto que tenho maior familiaridade, no entanto, enquanto eu pesquisava sobre o dash, notei que talvez seria mais facil integrá-lo com o plotly. A própria documentação do dash demonstrava seus exemplos de layout fazendo uso do plotly)</li>
 </ul>
 
-## 🎥 Screencast do Projeto:
-
-
 ## 🎥 Capturas de Tela:
-
+<img src="/imgdashboard.PNG" width="750" />
+<p>Visão parcial do Dashboard</p>
+<br>
+<img src="/arquivocsv.PNG" width="750" />
+<p>Arquivo .csv gerado através da captura de dados feita na playlist</p>
 
 ## Links:
 
-<p>Segue abaixo o link para o documento de passo a passo para a realização correta do desafio antes de começar a por em prática</p>
+<p>Segue abaixo o link para o documento de passo a passo feito por mim para a realização correta do desafio usado para nortear a implementação</p>
 <a href="https://1drv.ms/w/c/fcdd49a0c68b61a0/EUHxwrQTSCdCqEd0Z-sPf9sBcyYD7YdfMgeiisn6Wlbv-Q?e=oarWbm">Clique aqui</a>
 

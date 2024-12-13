@@ -36,7 +36,11 @@ O desafio consiste  em consumir a API do YouTube dos vídeos de highlights das c
 
 
 ## 🎥 Capturas de Tela:
-
+<img src="/imgdashboard.PNG" width="750" />
+<p>Visão parcial do Dashboard</p>
+<br>
+<img src="/arquivocsv.PNG" width="750" />
+<p>Arquivo .csv gerado através da captura de dados feita na playlist</p>
 
 ## Links:
 
